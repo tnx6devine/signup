@@ -1,4 +1,4 @@
 def set_up_username(username)
-username.class
-
+	username = username.to_s
+	username.class
 end	
